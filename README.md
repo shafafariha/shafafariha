@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working with APP Group (Sinar Mas) in Digital Engineering, contributing to the digitalization of engineering and project management processes.<br><br>My interests include AI/ML, Data Analytics, Industrial Digitalization, Digital Twins, and AI applications for engineering. I enjoy building practical technology solutions that connect data, software, and real-world engineering problems.<br>
+I'm currently working with APP Group (Sinar Mas) in Digital Engineering Global Project Group, contributing to the digitalization of engineering and project management processes.<br><br>My interests include AI/ML, Data Analytics, Industrial Digitalization, Digital Twins, and AI applications for engineering. I enjoy building practical technology solutions that connect data, software, and real-world engineering problems.<br>
 
 
 ## 🌐 Socials:
