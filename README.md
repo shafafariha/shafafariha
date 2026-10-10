@@ -50,5 +50,3 @@ I'm currently working with APP Group (Sinar Mas) in Digital Engineering Global P
 
 ---
 [![](https://komarev.com/ghpvc/?username=shafafariha&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
